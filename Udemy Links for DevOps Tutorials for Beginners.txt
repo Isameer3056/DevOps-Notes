@@ -1,0 +1,86 @@
+Free learning on Udemy
+45 DevOps Courses and Tutorials for Absolute Beginner :
+
+1. DevOps - The Introduction 
+ https://lnkd.in/dD79ZpJF
+2. DevOps - The Introduction Course
+https://lnkd.in/dD79ZpJF
+3. CI CD pipeline - Devops Automation in 1 hr 
+https://lnkd.in/dMQEGJBN
+4. DevOps Crash Course : Learn Jenkins Docker Kubernetes GIT 
+https://lnkd.in/dt5CmYSN
+5. DevOps 101  
+https://lnkd.in/dhyzHVQh
+6. DevOps on AWS: Code, Build, and Test (Course 1 of 3) 
+https://lnkd.in/dV6NbWRJ
+7. Free Devops Interview Questions and Answers 
+https://lnkd.in/dsQu76qm
+8. DevOps Tools for Beginners: Ansible in 1 hour  
+https://lnkd.in/dKgMap-r
+9. DevOps on AWS: Release and Deploy (Course 2 of 3) 
+https://lnkd.in/dzQuM4Ht
+10. DevOps on AWS: Operate and Monitor (Course 3 of 3) 
+https://lnkd.in/d_P9wUgg
+11. Introduction to DevOps, Habits and Practices 
+https://lnkd.in/dsvQQcYj
+12. Amazon AWS Cloud IAM Hands-On 
+https://lnkd.in/ddSBhiST
+13. DevOps : CI/CD with Jenkins
+https://lnkd.in/d3qvi-Az
+14. Introduction to YAML - A hands -on course 
+https://lnkd.in/d4ypNfGF
+15. Kubernetes: Getting Started 
+https://lnkd.in/d_JQi6wF
+16. Docker Tutorial for Beginners practical hands on -Devops
+https://lnkd.in/dbSJ-zfX
+17. Ansible for the Absolute Beginner - DevOps
+https://lnkd.in/dn_w3bsK
+18. Docker, Docker SWARM and Kubernetes crash course for DevOps
+https://lnkd.in/dFirktd3
+19. Understanding Docker in about an Hour
+ https://lnkd.in/dNBvbgqJ
+20. Introduction to DevOps, Habits and Practices
+https://lnkd.in/dsvQQcYj
+21. Learn terraform by setting up Highly available wordpress
+https://lnkd.in/d-AaXDT2
+22. Use Ansible with Amazon Web Services
+https://lnkd.in/d6VfZi7d
+23. GIT Crash Course
+https://lnkd.in/ddzznGuV
+24. Maven Quick Start: A Fast Introduction to Maven by Example
+https://lnkd.in/dhVam3zC
+25. Master Amazon EC2 Basics with 10 Labs
+https://lnkd.in/d9jQ6cmN
+26. Amazon Web Services (AWS): CloudFormation
+https://lnkd.in/dAc65c-H
+
+31. Just enough Ansible to be dangerous
+https://lnkd.in/dXaWmX5d
+32. AZ-900 Microsoft Azure Fundamentals
+https://lnkd.in/dcdae_VZ
+33. Deploy Azure Virtual Desktop for beginners
+https://lnkd.in/dQsbzHes
+34. Apache Maven for Beginners
+https://lnkd.in/dWTK6dxn
+35. AWS Certified Solutions Architect Associate Introduction
+https://lnkd.in/d4eR5gsW
+36. Microsoft Azure fundamentals Az900 crash course
+https://lnkd.in/de5GBCEB
+37. Azure Real World Hand-on Training For Beginners.
+https://lnkd.in/dB3VM7f7
+38. Introduction to Linux Shell Scripting
+https://lnkd.in/dCb4BkvH
+39. Create a 3-Tier Application Using Azure Virtual Machines
+https://lnkd.in/dfMtuW8C
+40. AWS VPC and VPC Peering Demo
+https://lnkd.in/dxnraPHf
+41. Amazon Web Services (AWS) EC2: An Introduction
+https://lnkd.in/drUvNuFk
+42. Hosting your static website on Amazon AWS S3 service
+https://lnkd.in/dBw4RKs2
+43. Mobaxterm Powerful tools to access Linux and Unix
+https://lnkd.in/dzKTB4xw
+44. Getting started with Cloud Computing using Microsoft Azure
+https://lnkd.in/dViDqS2t
+45. Cloud Computing Fundamentals
+https://lnkd.in/d9ZY_Kdq
